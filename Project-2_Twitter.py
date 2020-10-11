@@ -12,7 +12,7 @@ import pickle
 from tweepy import OAuthHandler
 
 # initializing the keys 
-
+# THis is the old Twitter API Which is now depriciated. New one requires proper authorization from Twitter
 consumer_key=''
 consumer_secret=''
 access_token=''
